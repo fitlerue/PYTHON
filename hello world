@@ -1,0 +1,16 @@
+print ("Hello world")
+
+name = input("please enter your name:")
+age = input ("please enter your age:")
+height = input ("Please enter your height:")
+
+print ("Hello" + name)
+print (f"You are {age} yeras old") #F sting recommended
+
+
+age = input("Enter your age:")
+
+if int(age) >= 21:
+    print("YOU can buy Alchahol ")
+else:
+    print("You can NOT buy any alchahol ")
