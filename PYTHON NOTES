@@ -1,0 +1,55 @@
+A float only accepts decimal numbers? False 
+
+A compiler executes code faster compared to an interpreter? True 
+
+False AND True = False 
+
+False XOR True = True 
+
+Which of the following asks the user to enter something? Input () 
+
+True OR True = True 
+
+Select all of the following that are true about Python? Many frameworks, easy to learn. 
+
+Python is which of the following? A dynamic programming language  
+
+Computers understand the human language like humans do? False 
+
+ 
+
+Variables have a name and value. It is a data container.  
+
+The input function is used to ask uses for input. Input () 
+
+Conditions are used when an action is required based on options. Conditions are executed by If and ELSE commands.  ELIF is an additional if.  
+
+Tuple – read-only and cannot be edited.  
+
+ 
+
+grade = int(input("Enter a grade: ")) 
+
+if grade >= 90:  
+
+    print ("A") 
+
+elif grade >= 80: 
+
+    print ("B") 
+
+elif grade >= 70: 
+
+    print ("C") 
+
+elif grade >= 65: 
+
+    print ("D") 
+
+elif grade >= 0: 
+
+    print ("F") 
+
+else: 
+
+    print ("ERROR: Grades cannot be negative numbers or words.") 
