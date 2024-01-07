@@ -28,28 +28,8 @@ Tuple – read-only and cannot be edited.
 
  
 
-grade = int(input("Enter a grade: ")) 
+LOOPS 
 
-if grade >= 90:  
+Loops are blocks of code that run as long as a condition is true. (5x or 2000x) They allow repeating code logic for as long as the condition is true. 
 
-    print ("A") 
-
-elif grade >= 80: 
-
-    print ("B") 
-
-elif grade >= 70: 
-
-    print ("C") 
-
-elif grade >= 65: 
-
-    print ("D") 
-
-elif grade >= 0: 
-
-    print ("F") 
-
-else: 
-
-    print ("ERROR: Grades cannot be negative numbers or words.") 
+FOR loops – perform blocks of code if the condition is true, provides iterating capabilities.  
